@@ -3,6 +3,8 @@ public class Git {
         int a = 5;
         int b = 10;
         int sum = a + b;
+        int x = b-a;
         System.out.println(sum);
+        System.out.println(x);
     }
 }
