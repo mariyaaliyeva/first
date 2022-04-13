@@ -4,6 +4,7 @@ public class Git {
         int b = 10;
         int sum = a + b;
         int x = b-a;
+        int u = b/a;
         System.out.println(sum);
         System.out.println(x);
     }
